@@ -1,3 +1,7 @@
+# generated / local-only artifacts (not part of the entry)
 entry.png
+entry-pinterest.png
+media-generation-*.webp
+media-generation-*.json
 out/
 candidates/
